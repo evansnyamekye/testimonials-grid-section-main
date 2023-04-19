@@ -30,9 +30,9 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Portfolio Website] <a name="about-project"></a>
+# 📖 [Testimonial Website] <a name="about-project"></a>
 
-**[Portfolio Website]** This is a Testimonials website that was developed with HTML5 AND CSS3. It gives a beautiful layout of how the grid system looks like on a webpage and how grid system or grid layout can be embeded in any website or any of the modern front-end frameworks.
+**[Testimonial Website]** This is a Testimonials website that was developed with HTML5 AND CSS3. It gives a beautiful layout of how the grid system looks like on a webpage and how grid system or grid layout can be embeded in any website or any of the modern front-end frameworks.
 ## 🛠 Built With <a name="built-with"></a>
 - HTML5
 - CSS3
