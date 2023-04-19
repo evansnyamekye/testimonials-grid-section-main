@@ -1,42 +1,106 @@
-# Frontend Mentor - Testimonials grid section solution
+# Frontend Mentor - Testimonials Grid WebPage
 
-This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help developers improve their coding skills by building realistic projects. 
+<a name="readme-top"></a>
 
-## Table of contents
+<div align="center">
+  <br/>
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  <h3><b>Testimonials Grid WebPage: Home</b></h3>
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+</div>
 
-## Overview
+# 📗 Table of Contents
 
-### The challenge
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-Users should be able to:
+# 📖 [Portfolio Website] <a name="about-project"></a>
 
-- View the optimal layout for the site depending on their device's screen size
+**[Portfolio Website]** This is a Testimonials website that was developed with HTML5 AND CSS3. It gives a beautiful layout of how the grid system looks like on a webpage and how grid system or grid layout can be embeded in any website or any of the modern front-end frameworks.
+## 🛠 Built With <a name="built-with"></a>
+- HTML5
+- CSS3
 
-### Screenshot
+<!-- Features -->
 
-![](./screenshot.jpg)
+### Key Features <a name="key-features"></a>
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+> Describe between 1-3 key features of the application.
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+- HTML5
+- CSS3
+- HTML5, CSS3 Linters
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
+
+To get a local copy up and running, follow these steps:
+- Open your Terminal
+- Navigate to the desired directory[folder] to which you want to clone the repository to
+- [Copy & Paste] git clone https://github.com/evansnyamekye/testimonials-grid-section-main.git
+
+### Prerequisites
+
+In order to run this project you need:
+
+- Basic Knowledge of HTML and CSS
+- Basic Understanding of Linters
+
+### Setup
+
+Clone this repository to your desired folder:
+
+- git clone (https://github.com/evansnyamekye/testimonials-grid-section-main.git)
+Example commands:
+
+```sh
+  cd my-folder
+  git clone (https://github.com/evansnyamekye/testimonials-grid-section-main.git)
+```
+--->
+
+### Install
+
+Install this project with:
+
+- npm install
+
+
+### Run tests
+
+To run tests, run the following command:
+
+- npx stylelint "**/*.{css,scss}"
+- npx hint .
+
+### Deployment
+
+You can deploy this project using:
+
+- Github tools
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Links
 
